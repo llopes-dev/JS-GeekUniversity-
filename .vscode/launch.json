@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/secao05/aula02.js"
+            "program": "${workspaceFolder}/secao06/aula04.js"
         }
     ]
 }

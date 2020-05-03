@@ -123,5 +123,5 @@ rest.sort(function(a , b){ return a - b});
 // console.log(rest)
 
 var tabuleiro = [[1, 2, 3, 4] , [5 , 6, 7, 8] , [9 ,10 , 11 ,12] , [13 , 14 , 15, 16]];
-console.log(tabuleiro[0] [0]);
-console.log(tabuleiro[2] [2]);
+// console.log(tabuleiro[0] [0]);
+// console.log(tabuleiro[2] [2]);
