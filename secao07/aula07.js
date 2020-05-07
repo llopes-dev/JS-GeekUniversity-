@@ -2,6 +2,7 @@ const curso = {
     nome:'Curso de Programação',
     hora: 25,
     preco: 22.90,
+    validade: 6,
 }
 
 // console.log(curso);
